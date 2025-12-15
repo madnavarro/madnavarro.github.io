@@ -1,0 +1,219 @@
+# jemdoc: menu{MENU}{link.html}, nofooter
+== Madeline Navarro
+
+If the following is not up to date, feel free to check my [https://scholar.google.com/citations?user=LJxDdfMAAAAJ Google Scholar] and [https://arxiv.org/search/cs?searchtype=author&query=Navarro%2C+M arXiv] profiles.
+
+=== Preprints
+- [https://arxiv.org/abs/2510.07536 Estimating Fair Graphs from Graph-Stationary Data] [https://arxiv.org/pdf/2510.07536 \[arXiv\]] \n
+*Madeline Navarro*,
+Andrei Buciulea,
+Samuel Rey,
+Antonio G. Marques,
+and 
+Santiago Segarra,
+/preprint/
+- [https://arxiv.org/abs/2510.18649 Learning Time-Varying Turn-Taking Behavior in Group Conversations] [https://arxiv.org/pdf/2510.18649 \[arXiv\]] \n
+*Madeline Navarro*,
+Lisa O'Bryan,
+and 
+Santiago Segarra,
+/preprint/
+- [https://arxiv.org/abs/2510.03096 Adaptive Node Feature Selection for Graph Neural Networks] [https://arxiv.org/pdf/2510.03096 \[arXiv\]] \n
+Ali Azizpour,
+*Madeline Navarro*,
+and 
+Santiago Segarra,
+/preprint/
+- [https://arxiv.org/abs/2509.25706 Adaptive Graph Coarsening for Efficient GNN Training] [https://arxiv.org/pdf/2509.25706 \[arXiv\]] \n
+Rostyslav Olshevskyi,
+*Madeline Navarro*,
+and 
+Santiago Segarra,
+/preprint/
+- [https://arxiv.org/abs/2506.08871 Adapting to Heterophilic Graph Data with Structure-Guided Neighbor Discovery] [https://arxiv.org/pdf/2506.08871 \[arXiv\]] \n
+Victor M. Tenorio,
+*Madeline Navarro*,
+Samuel Rey,
+Santiago Segarra,
+and 
+Antonio G. Marques,
+/preprint/
+- [https://openreview.net/forum?id=eM6L9VTgHc Fair Feature Importance Scores via Feature Occlusion and Permutation] [https://openreview.net/pdf?id=eM6L9VTgHc \[OpenReview\]] \n
+Camille Little,
+*Madeline Navarro*,
+Santiago Segarra,
+and 
+Genevera I. Allen,
+/ICLR 2025 Workshop Advances in Financial AI/
+- [https://arxiv.org/abs/2111.01273 Network Clustering for Latent Space and Changepoint Detection] [https://arxiv.org/pdf/2111.01273 \[arXiv\]] \n
+*Madeline Navarro*,
+Genevera I. Allen,
+and
+Michael Weylandt,
+/preprint/
+
+=== Journal publications
+- [https://psycnet.apa.org/record/2026-61151-001 ML-SPEAK: A theory-guided machine learning method for studying and predicting conversational turn-taking patterns] [https://arxiv.org/pdf/2411.15405 \[arXiv\]] \n
+Lisa O'Bryan,
+*Madeline Navarro*,
+Juan Segundo Hevia,
+and 
+Santiago Segarra,
+/Journal of Personality and Social Psychology/,
+2025
+- [https://ieeexplore.ieee.org/abstract/document/10507157 Joint Network Topology Inference in the Presence of Hidden Nodes] [https://arxiv.org/pdf/2306.17364 \[arXiv\]] \n
+*Madeline Navarro*,
+Samuel Rey,
+Andrei Buciulea,
+Antonio G. Marques,
+and 
+Santiago Segarra,
+/IEEE Transactions on Signal Processing/,
+2024
+- [https://ieeexplore.ieee.org/abstract/document/9956751/ Joint Network Topology Inference via a Shared Graphon Model] [https://arxiv.org/pdf/2209.08223 \[arXiv\]] \n
+*Madeline Navarro*
+and 
+Santiago Segarra,
+/IEEE Transactions on Signal Processing/,
+2022
+- [http://www.jmlr.org/papers/v23/20-1375.html Joint Inference of Multiple Graphs from Matrix Polynomials] [https://jmlr.org/papers/volume23/20-1375/20-1375.pdf \[OpenReview\]] \n
+*Madeline Navarro*,
+Yuhao Wang,
+Antonio G. Marques,
+Caroline Uhler, 
+and 
+Santiago Segarra,
+/Journal of Machine Learning Research/,
+2022
+
+=== Conference papers
+- [https://ieeexplore.ieee.org/abstract/document/10887710/ Bayesian Filtering on Graphs] \n
+Bishwadeep Das,
+*Madeline Navarro*,
+Santiago Segarra,
+and 
+Elvin Isufi,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2025 \n
+*ICASSP 2025 Best Paper Award*
+- [https://ieeexplore.ieee.org/abstract/document/10889291/ Low-Rank Tensors for Multi-Dimensional Markov Models] [https://arxiv.org/pdf/2411.02098 \[arXiv\]] \n
+*Madeline Navarro*,
+Sergio Rozada,
+Antonio G. Marques,
+and 
+Santiago Segarra,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2025 \n
+- [https://ieeexplore.ieee.org/abstract/document/10890878/ Online Network Inference from Graph-Stationary Signals with Hidden Nodes] [https://arxiv.org/pdf/2409.08760 \[arXiv\]] \n
+Andrei Buciulea,
+*Madeline Navarro*,
+Samuel Rey,
+Santiago Segarra,
+and
+Antonio G. Marques, 
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2025 \n
+- [https://ieeexplore.ieee.org/abstract/document/10888282/ Fair coVariance Neural Networks] [https://arxiv.org/pdf/2409.08558 \[arXiv\]] \n
+Andrea Cavallo,
+*Madeline Navarro*,
+Santiago Segarra,
+and 
+Elvin Isufi,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2025 \n
+- [https://ieeexplore.ieee.org/abstract/document/10889874/ Redesigning Graph Filter-Based GNNs to Relax the Homophily Assumption] [https://arxiv.org/pdf/2409.08676 \[arXiv\]] \n
+Samuel Rey,
+*Madeline Navarro*,
+Victor M. Tenorio,
+Santiago Segarra,
+and
+Antonio G. Marques, 
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2025 \n
+- [https://ieeexplore.ieee.org/abstract/document/10942934/ Structure-Guided Input Graph for GNNs Facing Heterophily] [https://arxiv.org/pdf/2412.01757 \[arXiv\]] \n
+Victor M. Tenorio,
+*Madeline Navarro*,
+Samuel Rey,
+Santiago Segarra,
+and
+Antonio G. Marques, 
+/IEEE Asilomar Conference on Signals, Systems, and Computers/,
+2024 \n
+- [https://proceedings.neurips.cc/paper_files/paper/2024/file/fc16089c664195e01139ca7d7432c5bb-Paper-Conference.pdf Fair GLASSO: Estimating Fair Graphical Models with Unbiased Statistical Behavior] [https://openreview.net/pdf?id=a3cauWMXNV \[OpenReview\]] \n
+*Madeline Navarro*,
+Samuel Rey,
+Andrei Buciulea,
+Antonio G. Marques, 
+and
+Santiago Segarra,
+/Advances in Neural Information Processing Systems (NeurIPS)/,
+2024 \n
+- [https://ieeexplore.ieee.org/abstract/document/10715328/ Mitigating Subpopulation Bias for Fair Network Topology Inference] [https://arxiv.org/pdf/2403.15591 \[arXiv\]] \n
+*Madeline Navarro*,
+Samuel Rey,
+Andrei Buciulea,
+Antonio G. Marques, 
+and
+Santiago Segarra,
+/IEEE European Signal Processing (EUSIPCO)/,
+2024 \n
+- [https://ieeexplore.ieee.org/abstract/document/10447519/ SC-MAD: Mixtures of Higher-Order Networks for Data Augmentation] [https://arxiv.org/pdf/2309.07453 \[arXiv\]] \n
+*Madeline Navarro*
+and
+Santiago Segarra,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2024 \n
+- [https://ieeexplore.ieee.org/abstract/document/10446564/ Data Augmentation via Subgroup Mixup for Improving Fairness] [https://arxiv.org/pdf/2309.07110 \[arXiv\]] \n
+*Madeline Navarro*,
+Camille Little,
+Genevera I. Allen,
+and
+Santiago Segarra,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2024 \n
+- [https://ieeexplore.ieee.org/abstract/document/10447223/ Recovering Missing Node Features with Local Structure-Based Embeddings] [https://arxiv.org/pdf/2309.09068 \[arXiv\]] \n
+Victor M. Tenorio,
+*Madeline Navarro*,
+Santiago Segarra,
+and
+Antonio G. Marques,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2024 \n
+- [https://ieeexplore.ieee.org/abstract/document/10095561/ GraphMAD: Graph mixup for data augmentation using data-driven convex clustering] [https://arxiv.org/pdf/2210.15721 \[arXiv\]] \n
+*Madeline Navarro*
+and
+Santiago Segarra,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2023 \n
+- [https://ieeexplore.ieee.org/abstract/document/10051977/ Joint Graph Learning from Gaussian Observations in the Presence of Hidden Nodes] [https://arxiv.org/pdf/2212.01816 \[arXiv\]] \n
+Samuel Rey,
+*Madeline Navarro*,
+Andrei Buciulea,
+Santiago Segarra,
+and
+Antonio G. Marques,
+/IEEE Asilomar Conference on Signals, Systems, and Computers/,
+2022 \n
+- [https://ieeexplore.ieee.org/abstract/document/9746332/ Graphon-Aided Joint Estimation of Multiple Graphs] [https://arxiv.org/pdf/2202.05686 \[arXiv\]] \n
+*Madeline Navarro*
+and
+Santiago Segarra,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2022 \n
+- [https://ieeexplore.ieee.org/abstract/document/9747524/ Joint Inference of Multiple Graphs with Hidden Variables from Stationary Graph Signals] [https://arxiv.org/pdf/2110.03666 \[arXiv\]] \n
+Samuel Rey,
+Andrei Buciulea,
+*Madeline Navarro*,
+Santiago Segarra,
+and
+Antonio G. Marques,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2022 \n
+- [https://ieeexplore.ieee.org/abstract/document/9414266/ Network Topology Inference with Graphon Spectral Penalties] [https://arxiv.org/pdf/2010.07872 \[arXiv\]] \n
+T. Mitchell Roddenberry,
+*Madeline Navarro*,
+and
+Santiago Segarra,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2021 \n
+

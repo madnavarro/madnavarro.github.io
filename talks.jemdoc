@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{link.html}, nofooter
+== Madeline Navarro
+
+=== Invited Talks
+- {{<span style="color: rgb(134,160,164);">Reducing GNN Complexity via Adaptive Learning</span>}}
+    \n
+    (6 October 2025)
+    /Universidad Rey Juan Carlos/
+- {{<span style="color: rgb(134,160,164);">Estimating Fair Graphs with Unbiased Connections</span>}}
+    \n
+    (22 April 2025)
+    /University of Pennsylvania/
+    \n
+    (28 March 2025)
+    /Massachusetts Institute of Technology/
+    \n
+    (3 March 2025)
+    /Carnegie Mellon University/
+    \n
+    (24 February 2025)
+    /Jr. MINDS Seminar at Johns Hopkins University/
+- {{<span style="color: rgb(134,160,164);">Fair GLASSO: Estimating Fair Graphical Models with Unbiased Statistical Behavior</span>}}
+    \n
+    (20 November 2024)
+    /Prof. Genevera Allen Group Meeting at Columbia University/
+    \n
+    (24 October 2024)
+    /SIAM Conference on Mathematics of Data Science (MDS24)/
+- {{<span style="color: rgb(134,160,164);">MAD Overview: Mixup for Augmenting Data in Myriad Scenarios</span>}}
+    \n
+    (11 July 2024)
+    /Delft University of Technology/
+    \n
+    (15 January 2024)
+    /Universidad Rey Juan Carlos/
+- {{<span style="color: rgb(134,160,164);">Fair Network Topology Inference with Unbiased Connections</span>}}
+    \n
+    (21 February 2025)
+    /University of Virginia/
+- {{<span style="color: rgb(134,160,164);">Mitigating Subpopulation Bias for Fair Network Topology Inference</span>}}
+    \n
+    (24 June 2024)
+    /Graph Signal Processing Workshop 2024/
+- {{<span style="color: rgb(134,160,164);">Joint Network Topology Inference</span>}}
+    \n
+    (17 January 2024)
+    /Universidad Rey Juan Carlos/
+- {{<span style="color: rgb(134,160,164);">GraphMAD: Graph Mixup for Data Augmentation using Data-Driven Convex Clustering</span>}}
+    \n
+    (13 June 2023)
+    /Graph Signal Processing Workshop 2023/
+
+
+
+
+

@@ -1,0 +1,96 @@
+/*
+*/
+/* 
+https://colorpalettes.net/color-palette-1237/
+#344b52
+#587983
+#9db3b4
+#cfd3ca
+#fae8da */
+
+:root {
+    --menutext: #587983;
+    --headers: #587983;
+    --border: #cfd3ca;
+    --background: #FBECE0;
+    --links: #86A0A4;
+}
+
+/*
+:root {
+    --menutext: #846D71;
+    --headers: #C18371;
+    --border: #FDCFBB;
+    --background: #FDECE3;
+    --links: #378BA4;
+}
+*/
+
+/* 
+    --links: #D2D8E6;
+*/
+/*
+https://colorpalettes.net/color-palette-4603/
+:root {
+    --apricot: #F8D4C4;
+    --peach: #E5B1B9;
+    --indigo: #3C487C;
+    --mountain: #797EBA;
+    --lavender: #A7A0C9;
+}
+
+.apricot {
+    color: var(--apricot);
+}
+.peach {
+    color: var(--peach);
+}
+.indigo {
+    color: var(--indigo);
+}
+.mountain {
+    color: var(--mountain);
+}
+.lavender {
+    color: var(--lavender);
+}
+*/
+
+
+/*
+@define-color apricot #F8D4C4;
+@define-color peach #E5B1B9;
+@define-color indigo #3C487C;
+@define-color mountain #797EBA;
+@define-color lavender #A7A0C9;
+*/
+
+
+/*
+@define-color rosewater #ad7d77;
+@define-color flamingo #a8716e;
+@define-color pink #b6759a;
+@define-color mauve #8b35ce;
+@define-color red #8e353a;
+@define-color maroon #a55251;
+@define-color peach #c56554;
+@define-color yellow #b47b5a;
+@define-color green #5c9124;
+@define-color teal #418583;
+@define-color sky #4799d4;
+@define-color sapphire #4a91a8;
+@define-color blue #445bdc;
+@define-color lavender #7d7ee3;
+@define-color text #46425a;
+@define-color subtext1 #56536b;
+@define-color subtext0 #66647c;
+@define-color overlay2 #76758c;
+@define-color overlay1 #86859b;
+@define-color overlay0 #9597ac;
+@define-color surface2 #a5a7bb;
+@define-color surface1 #b5b8cb;
+@define-color surface0 #c4c8da;
+@define-color base #eae9f6;
+@define-color mantle #dee2f0;
+@define-color crust #d4d9e8;
+*/
