@@ -10,7 +10,7 @@
             Ph.D. Student<br>
             Department of Electrical and Computer Engineering<br>
             Rice University<br>
-            nav [AT] rice [DOT] edu <br>
+            nav [at] rice [dot] edu <br>
             <a href="https://scholar.google.com/citations?user=LJxDdfMAAAAJ">Google Scholar</a>
             |
             <a href="https://www.linkedin.com/in/madnav">LinkedIn</a>
@@ -24,5 +24,4 @@
 
 I am a Ph.D. student in electrical engineering at Rice University, advised by [https://segarra.rice.edu/ Santiago Segarra]. 
 While my interests are ever-changing, my [/papers.html research] broadly includes graph signal processing (estimating graphs from data, graph filter identification), trustworthy machine learning (fair and interpretable methods, feature importance), and bridging the gap between signal processing and machine learning.
-
 
