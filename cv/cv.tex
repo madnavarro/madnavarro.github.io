@@ -1,0 +1,676 @@
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\usepackage{multicol}
+% \setlength{\columnsep}
+
+% % Font options
+% \usepackage[sfdefault]{roboto}  % Sans-serif font
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries\scshape\raggedright}{}{0em}{}[\titlerule]
+
+% Ensure PDF is machine readable
+\pdfgentounicode=1
+
+% Custom commands
+\newcommand{\resumeItem}[1]{\item\small{#1}}
+\newcommand{\resumeBullet}[1]{\item[\textbullet]\small{#1}}
+\newcommand{\resumeCustomBullet}[2]{\item[#1]\small{#2}}
+\newcommand{\resumeSubheading}[4]{
+\vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    #1 & #2 \\
+    #3 & #4 \\
+  \end{tabular*}\vspace{-7pt}
+}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingList}{\begin{itemize}[leftmargin=0.05in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\huge Madeline Navarro} \\[.2cm]
+    {
+        \small
+        \begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}X >{\raggedleft\arraybackslash}X}
+                Rice University
+                & 
+                % Phone: +1-757-672-8341 
+                Email: \href{mailto:nav@rice.edu}{nav@rice.edu} 
+                \\
+                Dept. of Electrical and Computer Engineering
+                & 
+                Website: \href{https://madnavarro.com}{madnavarro.com}
+                % \\
+                % Dept. of Electrical and Computer Engineering
+                % & 
+                % Email: \href{mailto:nav@rice.edu}{nav@rice.edu} 
+                % LinkedIn: \href{https://www.linkedin.com/in/madnav}{linkedin.com/in/madnav}
+                \\
+                % 6100 Main St.,
+                Houston, TX, United States
+                & 
+                % LinkedIn: \href{https://www.linkedin.com/in/madnav}{linkedin.com/in/madnav}
+                Github: \href{https://github.com/mn51}{github.com/mn51}
+                % \\
+                % % Houston, TX, United States 77005
+                % & 
+                % % Github: \href{https://github.com/mn51}{github.com/mn51}
+                % \\
+            \end{tabularx}
+    }
+\end{center}
+
+\section*{Research Interests}
+% \quad
+\hspace{0.05in}
+    Signal processing; Optimization; Trustworthy and principled machine learning; Graphs and network science
+% Optimization; 
+% Graphical models; 
+
+\section{Education}
+
+\resumeSubHeadingList
+  \resumeSubheading
+      {\textbf{Rice University}, Houston, TX, United States}
+      {August 2020 -- present \!\!\!\!\!}
+      {Ph.D. in Electrical Engineering \\ 
+      Advisor: Santiago Segarra \\
+      Thesis: ``Learning graphs from data'' }
+      {}
+      \vspace{.15cm}
+  \resumeSubheading
+      {\textbf{Rice University}, Houston, TX, United States}
+      {August 2020 -- April 2023 \!\!\!\!\!}
+      {M.Sc. in Electrical Engineering \\ 
+      Advisor: Santiago Segarra \\
+      Thesis: ``Inference of multiple sparse networks in the presence of hidden nodes'' }
+      {}
+      \vspace{.15cm}
+  \resumeSubheading
+      {\textbf{Old Dominion University}, Norfolk, VA, United States}
+      {January 2018 -- May 2020 \!\!\!\!\!}
+      % {B.Sc. in Electrical Engineering \\ 
+      % Minor in Computer Engineering }
+      {B.Sc. in Electrical Engineering,
+      Minor in Computer Engineering }
+      {}
+      \vspace{.15cm}
+  \resumeSubheading
+      {\textbf{Tidewater Community College}, Virginia Beach, VA, United States}
+      {August 2012 -- December 2017 \!\!\!\!\!}
+      {A.S. in Electrical Engineering,
+      \textit{summa cum laude}}
+      {}
+\resumeSubHeadingListEnd
+
+\section{Publications}
+\resumeSubHeadingList
+  \resumeItem{\textbf{Peer-reviewed Journal Papers}}
+      \begin{itemize}[leftmargin=0.25in, label={}]
+      % \resumeSubHeadingList
+          % \resumeBullet{
+          \resumeCustomBullet{{[J1]}}{
+            Lisa R. O'Bryan,
+            \textbf{Madeline Navarro},
+            Juan Segundo Hevia, 
+            and
+            Santiago Segarra,
+            ``ML-SPEAK: A theory-guided machine learning method for studying and predicting conversational turn-taking patterns'',
+            \textit{Journal of Personality and Social Psychology},
+            2025.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[J2]}}{
+            \textbf{Madeline Navarro},
+            Samuel Rey,
+            Andrei Buciulea,
+            Antonio G. Marques, and
+            Santiago Segarra,
+            ``Joint network topology inference in the presence of hidden nodes'',
+            \textit{IEEE Transactions on Signal Processing},
+            vol. 72,
+            pp. 2710--2725,
+            2024.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[J3]}}{
+            \textbf{Madeline Navarro} 
+            and
+            Santiago Segarra,
+            ``Joint network topology inference via a shared graphon model'',
+            \textit{IEEE Transactions on Signal Processing},
+            vol. 70,
+            pp. 5549--5563,
+            2022.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[J4]}}{
+            \textbf{Madeline Navarro},
+            Yuhao Wang,
+            Antonio G. Marques,
+            Caroline Uhler, 
+            and
+            Santiago Segarra,
+            ``Joint inference of multiple graphs from matrix polynomials'',
+            \textit{Journal of Machine Learning Research},
+            vol. 23,
+            no. 76,
+            pp. 1--35,
+            2022.
+          }
+      \resumeSubHeadingListEnd
+  \resumeItem{\textbf{Peer-reviewed Conference Papers}}
+      \begin{itemize}[leftmargin=0.35in, label={}]
+      % \resumeSubHeadingList
+          % \resumeBullet{
+          \resumeCustomBullet{{[C1]~\,}}{
+            \textbf{Madeline Navarro},
+            Lisa R. O'Bryan,
+            and
+            Santiago Segarra,
+            ``Learning time-varying turn-taking behavior in group conversations'',
+            \textit{arXiv preprint arXiv:2510.18649},
+            2025.
+            \textit{[Accepted at ICASSP 2026]}
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C2]~\,}}{
+            Rostyslav Olshevskyi,
+            \textbf{Madeline Navarro},
+            and
+            Santiago Segarra,
+            ``Adaptive graph coarsening for efficient GNN training'',
+            \textit{arXiv preprint arXiv:2509.25706},
+            2025.
+            \textit{[Accepted at ICASSP 2026]}
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C3]~\,}}{
+            Bishwadeep Das,
+            \textbf{Madeline Navarro},
+            Santiago Segarra,
+            and
+            Elvin Isufi, 
+            ``Bayesian filtering on graphs'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, IEEE, 2025. 
+            \textbf{[ICASSP 2025 Best Paper Award]}
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C4]~\,}}{
+            \textbf{Madeline Navarro},
+            Sergio Rozada,
+            Antonio G. Marques, 
+            and
+            Santiago Segarra,
+            ``Low-rank tensors for multi-dimensional Markov models'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, IEEE, 2025. 
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C5]~\,}}{
+            Andrei Buciulea,
+            \textbf{Madeline Navarro},
+            Samuel Rey,
+            Santiago Segarra,
+            and
+            Antonio G. Marques, 
+            ``Online network inference from graph-stationary signals with hidden nodes'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, IEEE, 2025. 
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C6]~\,}}{
+            Andrea Cavallo,            
+            \textbf{Madeline Navarro},
+            Santiago Segarra,
+            and
+            Elvin Isufi, 
+            ``Fair coVariance neural networks'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, IEEE, 2025. 
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C7]~\,}}{
+            Samuel Rey,
+            \textbf{Madeline Navarro},
+            Victor Tenorio,
+            Antonio G. Marques, 
+            and
+            Santiago Segarra,
+            ``Redesigning graph filter-based GNNs to relax the homophily assumption'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, IEEE, 2025. 
+          }      
+          % \resumeBullet{
+          \resumeCustomBullet{{[C8]~\,}}{
+            Victor M. Tenorio,
+            \textbf{Madeline Navarro},
+            Samuel Rey,
+            Santiago Segarra,
+            and
+            Antonio G. Marques, 
+            ``Structure-guided input graph for GNNs facing heterophily'',
+            in \textit{Asilomar Conference on Signals, Systems, and Computers},
+            IEEE,
+            2024.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C9]~\,}}{
+            \textbf{Madeline Navarro},
+            Samuel Rey,
+            Andrei Buciulea,
+            Antonio G. Marques, 
+            and
+            Santiago Segarra,
+            ``Fair GLASSO: Estimating fair graphical models with unbiased statistical behavior'',
+            \textit{Advances in Neural Information Processing Systems (NeurIPS)},
+            2024.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C10]}}{
+            \textbf{Madeline Navarro},
+            Samuel Rey,
+            Andrei Buciulea,
+            Antonio G. Marques, 
+            and
+            Santiago Segarra,
+            ``Mitigating subpopulation bias for fair network topology inference'',
+            in \textit{European Signal Processing Conference (EUSIPCO)},
+            IEEE,
+            2024.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C11]}}{
+            \textbf{Madeline Navarro} 
+            and
+            Santiago Segarra,
+            ``SC-MAD: Mixtures of higher-order networks for data augmentation'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+            pp. 13446--13450,
+            IEEE,
+            2024.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C12]}}{
+            \textbf{Madeline Navarro},
+            Camille Little,
+            Genevera I. Allen,
+            and
+            Santiago Segarra,
+            ``Data augmentation via subgroup mixup for improving fairness'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+            pp. 7350--7354,
+            IEEE,
+            2024.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C13]}}{
+            Victor M. Tenorio,
+            \textbf{Madeline Navarro},
+            Santiago Segarra, 
+            and
+            Antonio G. Marques,
+            ``Recovering missing node features with local structure-based embeddings'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+            pp. 9931--9935,
+            IEEE,
+            2024.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C14]}}{
+            \textbf{Madeline Navarro} 
+            and
+            Santiago Segarra,
+            ``GraphMAD: Graph mixup for data augmentation using data-driven convex clustering'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+            pp. 1--5,
+            IEEE,
+            2023.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C15]}}{
+            Samuel Rey,
+            \textbf{Madeline Navarro},
+            Andrei Buciulea,
+            Santiago Segarra, 
+            and
+            Antonio G. Marques, 
+            ``Joint graph learning from Gaussian observations in the presence of hidden nodes'',
+            in \textit{Asilomar Conference on Signals, Systems, and Computers},
+            pp. 53--57,
+            IEEE,
+            2022.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C16]}}{
+            \textbf{Madeline Navarro} 
+            and
+            Santiago Segarra,
+            ``Graphon-aided joint estimation of multiple graphs'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+            pp. 5458--5462,
+            IEEE,
+            2022.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C17]}}{
+            Samuel Rey,
+            Andrei Buciulea,
+            \textbf{Madeline Navarro},
+            Santiago Segarra, 
+            and
+            Antonio G. Marques, 
+            ``Joint inference of multiple graphs with hidden variables from stationary graph signals'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+            pp. 5817--5821,
+            IEEE,
+            2022.
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[C18]}}{
+            T. Mitchell Roddenberry,
+            \textbf{Madeline Navarro},
+            and
+            Santiago Segarra, 
+            ``Network topology inference with graphon spectral penalties'',
+            in \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+            pp. 5390--5394,
+            IEEE,
+            2021.
+          }
+      \resumeSubHeadingListEnd
+  \resumeItem{\textbf{Preprints}}
+      \begin{itemize}[leftmargin=0.28in, label={}]
+      % \resumeSubHeadingList
+          % \resumeBullet{
+          \resumeCustomBullet{{[P1]}}{
+            \textbf{Madeline Navarro},
+            Andrei Buciulea,
+            Samuel Rey,
+            Antonio G. Marques,
+            and
+            Santiago Segarra,
+            ``Estimating fair graphs from graph-stationary data'',
+            \textit{arXiv preprint arXiv:2510.07536},
+            2025.
+            % \textit{[Submitted to ICASSP 2026]}
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[P3]}}{
+            Ali Azizpour,
+            \textbf{Madeline Navarro},
+            and
+            Santiago Segarra,
+            ``Adaptive node feature selection for graph neural networks'',
+            \textit{arXiv preprint arXiv:2510.03096},
+            2025.
+            % \textit{[Submitted to ICLR 2026]}
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[P5]}}{
+            Victor M. Tenorio,
+            \textbf{Madeline Navarro},
+            Samuel Rey,
+            Santiago Segarra,
+            and
+            Antonio G. Marques, 
+            ``Adapting to heterophilic graph data with structure-guided neighbor discovery'',
+            \textit{arXiv preprint arXiv:2506.08871},
+            % in \textit{Asilomar Conference on Signals, Systems, and Computers},
+            % IEEE,
+            2025.
+            % \textit{[Submitted to IEEE TPAMI]}
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[P6]}}{
+            Camille Little,
+            \textbf{Madeline Navarro},
+            Santiago Segarra,
+            and
+            Genevera I. Allen,
+            ``Fair feature importance scores via feature occlusion and permutation'',
+            \textit{ICLR 2025 Workshop Advances in Financial AI},
+            2025.
+            % \textit{[Accepted at ICLR 2025 Workshop Advances in Financial AI]}
+          }
+          % \resumeBullet{
+          \resumeCustomBullet{{[P7]}}{
+            \textbf{Madeline Navarro},
+            Genevera I. Allen,
+            and
+            Michael Weylandt,
+            ``Network clustering for latent state and changepoint detection'',
+            \textit{arXiv preprint arXiv:2111.01273},
+            2021.
+          }
+      \resumeSubHeadingListEnd
+\resumeSubHeadingListEnd
+
+\section{Invited Talks}
+
+\resumeSubHeadingList
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{Reducing GNN Complexity via Adaptive Learning} & 6 October 2025 \\
+      \textit{Universidad Rey Juan Carlos} & 
+    \end{tabular*}
+  % 
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{Estimating Fair Graphs with Unbiased Connections} & \\
+      \textit{University of Pennsylvania} & 22 April 2025 \\
+      \textit{Massachusetts Institute of Technology} & 28 March 2025 \\
+      \textit{Carnegie Mellon University} & 3 March 2025 \\
+      \textit{Jr. MINDS Seminar at Johns Hopkins University} & 24 February 2025
+    \end{tabular*}
+  % 
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{Fair GLASSO: Estimating Fair Graphical Models with Unbiased Statistical Behavior} & \\
+      \textit{Prof. Genevera Allen Group Meeting at Columbia University} & 20 November 2024 \\
+      \textit{SIAM Conference on Mathematics of Data Science (MDS24)} & 24 October 2024
+    \end{tabular*}
+  % 
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{MAD Overview: Mixup for Augmenting Data in Myriad Scenarios} & \\
+      \textit{Delft University of Technology} & 11 July 2024 \\
+      \textit{Universidad Rey Juan Carlos} & 15 January 2024
+    \end{tabular*}
+  % 
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{Fair Network Topology Inference with Unbiased Connections} & 21 February 2025 \\
+      \textit{University of Virginia} & 
+    \end{tabular*}
+  % 
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{Mitigating Subpopulation Bias for Fair Network Topology Inference} & 24 June 2024 \\
+      \textit{Graph Signal Processing Workshop 2024} & 
+    \end{tabular*}
+  % 
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{Joint Network Topology Inference} & 17 January 2024 \\
+      \textit{Universidad Rey Juan Carlos} & 
+    \end{tabular*}
+  % 
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{GraphMAD: Graph Mixup for Data Augmentation using Data-Driven Convex Clustering} & 13 June 2023 \\
+      \textit{Graph Signal Processing Workshop 2023} & 
+    \end{tabular*}
+\resumeSubHeadingListEnd
+  
+\section{Awards}
+
+\resumeSubHeadingList
+    \resumeBullet{
+      ICASSP 2025 Best Paper Award for 
+      ``Bayesian Filtering on Graphs''
+    }
+\resumeSubHeadingListEnd
+
+\section{Service}
+
+\resumeSubHeadingList
+    \resumeBullet{
+        Reviewer for machine learning venues:
+        Journal of Machine Learning Research (JMLR),
+        Neural Processing Letters, 
+        Neural Information Processing Systems (NeurIPS)
+        # IJCNN
+        # ICML
+    }
+    \resumeBullet{
+        Reviewer for journals: 
+        IEEE Transactions on Signal Processing (TSP),
+        IEEE Signal Processing Letters (SPL), 
+        IEEE Transactions on Signal and Information Processing over Networks (TSIPN),
+        Signal Processing (SIGPRO),
+        IEEE Open Journal of Signal Processing (OJSP)
+        # Scientific Reports
+    }
+    \resumeBullet{
+        Reviewer for conferences:
+        IEEE International Symposium in Information Theory (ISIT),
+        IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP),
+        IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)
+    }
+\resumeSubHeadingListEnd
+
+% TSIPN
+% JMLR
+% TSP
+% SPL
+% SIGPRO
+% Neural Processing Letters
+% ISIT
+% ICASSP
+% TNSE
+% OJSP
+
+
+\section{Teaching Experience}
+
+\resumeSubHeadingList
+  \resumeSubheading
+      {\textbf{Department of Electrical and Computer Engineering, Rice University}}{Houston, TX \!\!\!\!\!}
+      {\textit{Teaching Assistant}}{}
+      \vspace{.05cm}
+    \resumeSubHeadingList
+        \resumeBullet{
+            ELEC 573: Network Science and Analytics, \textit{Graduate Level}
+            \hfill
+            Fall 2024
+        }
+        \resumeBullet{
+            ELEC 242: Signals, Systems, \& Transforms, \textit{Undergraduate Level}
+            \hfill
+            Spring 2024
+        }
+        \resumeBullet{
+            ELEC 478/578: Introduction to Machine Learning, \textit{Undergraduate/Graduate Level}
+            \hfill
+            Fall 2023
+        }
+        \resumeBullet{
+            ELEC 242: Signals, Systems, \& Transforms, \textit{Undergraduate Level}
+            \hfill
+            Spring 2023
+        }
+        \resumeBullet{
+            ELEC 573: Network Science and Analytics, \textit{Graduate Level}
+            \hfill
+            Fall 2022
+        }
+        \resumeBullet{
+            ELEC 242: Signals, Systems, \& Transforms, \textit{Undergraduate Level}
+            \hfill
+            Spring 2022
+        }
+        \resumeBullet{
+            ELEC 573: Network Science and Analytics, \textit{Graduate Level}
+            \hfill
+            Fall 2021
+        }
+    \resumeSubHeadingListEnd
+  \resumeSubheading
+      {\textbf{Tidewater Community College}}{Virginia Beach, VA \!\!\!\!\!}
+      {\textit{Math Tutor}}{August 2016 -- August 2019 \!\!\!\!\!}
+      \vspace{.05cm}
+\resumeSubHeadingListEnd
+
+\section{Professional Memberships}
+
+\resumeSubHeadingList
+    \resumeItem{
+        \textbf{Sigma Xi, The Scientific Research Honor Society}
+        \hfill
+        Full Member \\[.1cm]
+        \textbf{IEEE Membership}
+        \hfill
+        Student Member \\[.1cm]
+        \textbf{IEEE Signal Processing Society (SPS) Membership}
+        \hfill
+        Student Member \\[.1cm]
+        \textbf{IEEE Young Professionals}
+        \hfill
+        Student Member
+    }
+\resumeSubHeadingListEnd
+
+\section{Industry Experience}
+\resumeSubHeadingList
+  \resumeSubheading
+      {\textbf{NAVSEA}}{Virginia Beach, VA \!\!\!\!\!}
+      {\textit{Student Trainee}}{June 2019 -- September 2019 \!\!\!\!\!}
+      \vspace{.05cm}
+      \resumeSubHeadingList
+          \resumeBullet{
+          Assisted RF engineering team with implementing transmitters and receivers for Naval training purposes}
+          \resumeBullet{
+          Helped RF engineers develop decoding equipment to replace obsolete systems}
+      \resumeSubHeadingListEnd
+  \resumeSubheading
+      {\textbf{INIT}}{Chesapeake, VA \!\!\!\!\!}
+      {\textit{APC Intern}}{October 2018 -- April 2019 \!\!\!\!\!}
+      \vspace{.05cm}
+      \resumeSubHeadingList
+          \resumeItem{\textbullet\ Developed SQL queries for processing automatic passenger counting data from train station servers}
+          \resumeItem{\textbullet\ Inspected and programmed sensory hardware components before implementation}
+          \resumeItem{\textbullet\ Created dashboard visualizations of query data via Elasticsearch, Logstash, and Kibana}
+          \resumeItem{\textbullet\ Consulted on purchasing lidar equipment for station detection during train operation}
+      \resumeSubHeadingListEnd
+\resumeSubHeadingListEnd
+
+\end{document}
