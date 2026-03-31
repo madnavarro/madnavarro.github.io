@@ -9,12 +9,20 @@ https://colorpalettes.net/color-palette-1237/
 #fae8da */
 
 :root {
-    --menutext: #587983;
-    --headers: #587983;
-    --border: #cfd3ca;
-    --background: #FBECE0;
-    --links: #86A0A4;
+    --menutext: #738488;
+    --headers: #738488;
+    --border: #e1ddd7;
+    --background: #efefce7;
+    --links: #a6b6ba;
+    /* --links: #d0d8da; */
 }
+/* :root { */
+/*     --menutext: #587983; */
+/*     --headers: #587983; */
+/*     --border: #cfd3ca; */
+/*     --background: #FBECE0; */
+/*     --links: #86A0A4; */
+/* } */
 
 /*
 :root {
