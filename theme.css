@@ -9,19 +9,39 @@ https://colorpalettes.net/color-palette-1237/
 #fae8da */
 
 :root {
-    --menutext: #165225;
-    --headers: #6a1823;
-    --border: #91c2a6;
-    --background: #c3dece;
-    --links: #b62d4f;
+    --menutext: #031725;
+    --headers: #022e5b;
+    --border: #a1c6f6;
+    --background: #daeaff;
+    --links: #499bed;
 }
+/* :root { */
+/*     --menutext: #6d878c; */
+/*     --headers: #1e2f33; */
+/*     --border: #d0d1ce; */
+/*     --background: #dde9e9; */
+/*     --links: #1bbfdb; */
+/* } */
+/* :root { */
+/*     --menutext: #83241e; */
+/*     --headers: #102020; */
+/*     --border: #2d4c4f; */
+/*     --background: #d9e9e9; */
+/*     --links: #78b4b7; */
+/* } */
+/* :root { */
+/*     --menutext: #342756; */
+/*     --headers: #3f4963; */
+/*     --border: #e0e7f0; */
+/*     --background: #f6fbfc; */
+/*     --links: #9bafbf; */
+/* } */
 /* :root { */
 /*     --menutext: #738488; */
 /*     --headers: #738488; */
 /*     --border: #e1ddd7; */
 /*     --background: #efefce7; */
 /*     --links: #a6b6ba; */
-/*     /* --links: #d0d8da; */ */
 /* } */
 /* :root { */
 /*     --menutext: #587983; */
