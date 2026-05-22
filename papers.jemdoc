@@ -201,6 +201,13 @@ Santiago Segarra,
 2021 \n
 
 === Preprints
+- [https://arxiv.org/abs/2602.03055 Stationarity and Spectral Characterization of Random Signals on Simplicial Complexes] [https://arxiv.org/pdf/2602.03055 \[arXiv\]] \n
+*Madeline Navarro*,
+Andrei Buciulea,
+Santiago Segarra,
+and 
+Antonio G. Marques,
+/preprint/
 - [https://arxiv.org/abs/2510.07536 Estimating Fair Graphs from Graph-Stationary Data] [https://arxiv.org/pdf/2510.07536 \[arXiv\]] \n
 *Madeline Navarro*,
 Andrei Buciulea,
@@ -219,7 +226,7 @@ and
 Antonio G. Marques,
 /preprint/,
 /(submitted to IEEE TKDE)/
-- [https://openreview.net/forum?id=eM6L9VTgHc Fair Feature Importance Scores via Feature Occlusion and Permutation] [https://openreview.net/pdf?id=eM6L9VTgHc \[OpenReview\]] \n
+- [https://arxiv.org/abs/2602.09196 Fair Feature Importance Scores via Feature Occlusion and Permutation] [https://arxiv.org/pdf/2602.09196 \[arXiv\]] \n
 Camille Little,
 *Madeline Navarro*,
 Santiago Segarra,
