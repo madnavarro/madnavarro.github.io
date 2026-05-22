@@ -4,7 +4,7 @@
 If the following is not up to date, feel free to check my [https://scholar.google.com/citations?user=LJxDdfMAAAAJ Google Scholar] and [https://arxiv.org/search/cs?searchtype=author&query=Navarro%2C+M arXiv] profiles.
 
 === Book chapters
-- [https://www.sciencedirect.com/science/chapter/handbook/pii/S0169716126000076 Higher-Order Graph Signal Processing] [https://doi.org/10.1016/bs.host.2026.02.007 DOI]
+- [https://www.sciencedirect.com/science/chapter/handbook/pii/S0169716126000076 Higher-Order Graph Signal Processing] [https://doi.org/10.1016/bs.host.2026.02.007 \[DOI\]] \n
 *Madeline Navarro*,
 Andrei Buciulea,
 Santiago Segarra,
@@ -208,7 +208,8 @@ Samuel Rey,
 Antonio G. Marques,
 and 
 Santiago Segarra,
-/preprint/
+/preprint/,
+/(submitted to JMLR)/
 - [https://arxiv.org/abs/2506.08871 Adapting to Heterophilic Graph Data with Structure-Guided Neighbor Discovery] [https://arxiv.org/pdf/2506.08871 \[arXiv\]] \n
 Victor M. Tenorio,
 *Madeline Navarro*,
@@ -216,7 +217,8 @@ Samuel Rey,
 Santiago Segarra,
 and 
 Antonio G. Marques,
-/preprint/
+/preprint/,
+/(submitted to IEEE TKDE)/
 - [https://openreview.net/forum?id=eM6L9VTgHc Fair Feature Importance Scores via Feature Occlusion and Permutation] [https://openreview.net/pdf?id=eM6L9VTgHc \[OpenReview\]] \n
 Camille Little,
 *Madeline Navarro*,
