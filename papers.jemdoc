@@ -3,54 +3,15 @@
 
 If the following is not up to date, feel free to check my [https://scholar.google.com/citations?user=LJxDdfMAAAAJ Google Scholar] and [https://arxiv.org/search/cs?searchtype=author&query=Navarro%2C+M arXiv] profiles.
 
-=== Preprints
-- [https://arxiv.org/abs/2510.07536 Estimating Fair Graphs from Graph-Stationary Data] [https://arxiv.org/pdf/2510.07536 \[arXiv\]] \n
+=== Book chapters
+- [https://www.sciencedirect.com/science/chapter/handbook/pii/S0169716126000076 Higher-Order Graph Signal Processing] [https://doi.org/10.1016/bs.host.2026.02.007 DOI]
 *Madeline Navarro*,
 Andrei Buciulea,
-Samuel Rey,
-Antonio G. Marques,
-and 
-Santiago Segarra,
-/preprint/
-- [https://arxiv.org/abs/2510.18649 Learning Time-Varying Turn-Taking Behavior in Group Conversations] [https://arxiv.org/pdf/2510.18649 \[arXiv\]] \n
-*Madeline Navarro*,
-Lisa O'Bryan,
-and 
-Santiago Segarra,
-/preprint/
-- [https://arxiv.org/abs/2510.03096 Adaptive Node Feature Selection for Graph Neural Networks] [https://arxiv.org/pdf/2510.03096 \[arXiv\]] \n
-Ali Azizpour,
-*Madeline Navarro*,
-and 
-Santiago Segarra,
-/preprint/
-- [https://arxiv.org/abs/2509.25706 Adaptive Graph Coarsening for Efficient GNN Training] [https://arxiv.org/pdf/2509.25706 \[arXiv\]] \n
-Rostyslav Olshevskyi,
-*Madeline Navarro*,
-and 
-Santiago Segarra,
-/preprint/
-- [https://arxiv.org/abs/2506.08871 Adapting to Heterophilic Graph Data with Structure-Guided Neighbor Discovery] [https://arxiv.org/pdf/2506.08871 \[arXiv\]] \n
-Victor M. Tenorio,
-*Madeline Navarro*,
-Samuel Rey,
 Santiago Segarra,
 and 
 Antonio G. Marques,
-/preprint/
-- [https://openreview.net/forum?id=eM6L9VTgHc Fair Feature Importance Scores via Feature Occlusion and Permutation] [https://openreview.net/pdf?id=eM6L9VTgHc \[OpenReview\]] \n
-Camille Little,
-*Madeline Navarro*,
-Santiago Segarra,
-and 
-Genevera I. Allen,
-/ICLR 2025 Workshop Advances in Financial AI/
-- [https://arxiv.org/abs/2111.01273 Network Clustering for Latent Space and Changepoint Detection] [https://arxiv.org/pdf/2111.01273 \[arXiv\]] \n
-*Madeline Navarro*,
-Genevera I. Allen,
-and
-Michael Weylandt,
-/preprint/
+/Handbook of Statistics/,
+2026
 
 === Journal publications
 - [https://psycnet.apa.org/record/2026-61151-001 ML-SPEAK: A theory-guided machine learning method for studying and predicting conversational turn-taking patterns] [https://arxiv.org/pdf/2411.15405 \[arXiv\]] \n
@@ -84,9 +45,31 @@ Caroline Uhler,
 and 
 Santiago Segarra,
 /Journal of Machine Learning Research/,
-2022
+2022 \n
 
 === Conference papers
+- [https://arxiv.org/abs/2510.03096 Adaptive Node Feature Selection for Graph Neural Networks] [https://arxiv.org/pdf/2510.03096 \[arXiv\]] \n
+Ali Azizpour,
+*Madeline Navarro*,
+and 
+Santiago Segarra,
+/International Conference on Machine Learning (ICML)/,
+2026 \n
+/preprint/
+- [https://arxiv.org/abs/2509.25706 Adaptive Graph Coarsening for Efficient GNN Training] [https://arxiv.org/pdf/2509.25706 \[arXiv\]] \n
+Rostyslav Olshevskyi,
+*Madeline Navarro*,
+and 
+Santiago Segarra,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2026 \n
+- [https://arxiv.org/abs/2510.18649 Learning Time-Varying Turn-Taking Behavior in Group Conversations] [https://arxiv.org/pdf/2510.18649 \[arXiv\]] \n
+*Madeline Navarro*,
+Lisa O'Bryan,
+and 
+Santiago Segarra,
+/IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
+2026 \n
 - [https://ieeexplore.ieee.org/abstract/document/10887710/ Bayesian Filtering on Graphs] \n
 Bishwadeep Das,
 *Madeline Navarro*,
@@ -216,4 +199,35 @@ and
 Santiago Segarra,
 /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/,
 2021 \n
+
+=== Preprints
+- [https://arxiv.org/abs/2510.07536 Estimating Fair Graphs from Graph-Stationary Data] [https://arxiv.org/pdf/2510.07536 \[arXiv\]] \n
+*Madeline Navarro*,
+Andrei Buciulea,
+Samuel Rey,
+Antonio G. Marques,
+and 
+Santiago Segarra,
+/preprint/
+- [https://arxiv.org/abs/2506.08871 Adapting to Heterophilic Graph Data with Structure-Guided Neighbor Discovery] [https://arxiv.org/pdf/2506.08871 \[arXiv\]] \n
+Victor M. Tenorio,
+*Madeline Navarro*,
+Samuel Rey,
+Santiago Segarra,
+and 
+Antonio G. Marques,
+/preprint/
+- [https://openreview.net/forum?id=eM6L9VTgHc Fair Feature Importance Scores via Feature Occlusion and Permutation] [https://openreview.net/pdf?id=eM6L9VTgHc \[OpenReview\]] \n
+Camille Little,
+*Madeline Navarro*,
+Santiago Segarra,
+and 
+Genevera I. Allen,
+/ICLR 2025 Workshop Advances in Financial AI/
+- [https://arxiv.org/abs/2111.01273 Network Clustering for Latent Space and Changepoint Detection] [https://arxiv.org/pdf/2111.01273 \[arXiv\]] \n
+*Madeline Navarro*,
+Genevera I. Allen,
+and
+Michael Weylandt,
+/preprint/
 
