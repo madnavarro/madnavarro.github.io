@@ -8,6 +8,7 @@ _site/
 .jekyll-metadata
 
 .DS_Store
+**/.DS_Store
 
 # Additional Ruby/bundler ignore for when you run: bundle install
 /vendor
